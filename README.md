@@ -7,12 +7,14 @@
 </p>
 
 <p align="center">
-  </a>
   <a href="mailto:lynnkish35@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://lynns-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/LinetYegon">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -77,7 +79,7 @@ A developer networking platform where developers can share code snippets, connec
 
 **Technologies:** React, Tailwind CSS, JavaScript, Express API.
 
-🔗 [View GitHub Profile](https://github.com/lynnjepchirchir)
+[View GitHub Profile](https://github.com/LinetYegon)
 
 ### 2. TaskFlow
 
@@ -85,7 +87,7 @@ A lightweight Kanban task management application featuring drag-and-drop functio
 
 **Technologies:** React, CSS, JavaScript.
 
-🔗 [View GitHub Profile](https://github.com/lynnjepchirchir)
+[View GitHub Profile](https://github.com/LinetYegon)
 
 ### 3. Weatherly
 
@@ -93,7 +95,7 @@ A simple weather application that integrates a public weather API to display for
 
 **Technologies:** React, Tailwind CSS, API Integration.
 
-🔗 [View GitHub Profile](https://github.com/lynnjepchirchir)
+[View GitHub Profile](https://github.com/LinetYegon)
 
 ### 4. Personal Portfolio
 
@@ -101,11 +103,34 @@ A modern, themeable portfolio website showcasing my skills, projects, and fronte
 
 **Technologies:** React, Tailwind CSS, React Router.
 
-🔗 [Visit Portfolio](https://your-portfolio.vercel.app)
+[Visit Portfolio](https://lynns-portfolio.vercel.app)
 
 ---
 
 ## GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lynnj
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LinetYegon&show_icons=true&hide_border=true&theme=default&hide_title=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinetYegon&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LinetYegon&hide_border=true&theme=default" alt="GitHub Streak" />
+</p>
+
+> These cards are served by community-run services (github-readme-stats and github-readme-streak-stats). If they fail to load, remove this section — nothing else depends on it.
+
+---
+
+## Contact
+
+- Email: [lynnkish35@gmail.com](mailto:lynnkish35@gmail.com)
+- Portfolio: [lynns-portfolio.vercel.app](https://lynns-portfolio.vercel.app)
+- GitHub: [github.com/LinetYegon](https://github.com/LinetYegon)
+- Location: Nairobi, Kenya
+
+Open to freelance work and frontend collaborations.
+
+---
+
+<p align="right"><sub>Last updated: November 2026</sub></p>

@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lynn Jepchirchir
+# Hi, I'm Lynn Jepchirchir
 
 <h3 align="center">💻 Software Engineer | Frontend Developer</h3>
 
@@ -7,24 +7,22 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/lynnjepchirchir">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:lynn@example.com">
+  <a href="mailto:lynnkish35@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://your-portfolio.vercel.app">
+  <a href="https://lynns-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
 <p align="center">
-  📍 Nairobi, Kenya
+  Nairobi, Kenya
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a frontend-focused software engineer based in Nairobi, Kenya, passionate about creating modern, accessible, and user-friendly web applications.
 
@@ -32,12 +30,12 @@ I specialize in **React.js, JavaScript, and Tailwind CSS**, with a strong founda
 
 I enjoy transforming designs into responsive interfaces, building reusable components, and writing clean, maintainable code.
 
-- 🔭 Currently building a themeable React portfolio.
-- 🌱 Exploring design systems and component-driven architecture.
-- 💬 Ask me about React, JavaScript, Tailwind CSS, and frontend accessibility.
-- 🎯 Goal: Build impactful digital solutions through technology.
+- Currently building a themeable React portfolio.
+- Exploring design systems and component-driven architecture.
+- Ask me about React, JavaScript, Tailwind CSS, and frontend accessibility.
+- Goal: Build impactful digital solutions through technology.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages & Frontend Development
 
@@ -71,7 +69,7 @@ I enjoy transforming designs into responsive interfaces, building reusable compo
 
 ---
 
-## 💡 Featured Projects
+## Featured Projects
 
 ### 1. DevConnect
 
@@ -107,7 +105,7 @@ A modern, themeable portfolio website showcasing my skills, projects, and fronte
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=lynnj

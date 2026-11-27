@@ -1,6 +1,6 @@
 # Hi, I'm Lynn Jepchirchir
 
-<h3 align="center">💻 Software Engineer | Frontend Developer</h3>
+<h3 align="center">Software Engineer | Frontend Developer</h3>
 
 <p align="center">
   Building modern, responsive, and accessible web experiences.
